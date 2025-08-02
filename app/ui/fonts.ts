@@ -7,4 +7,4 @@ export const lusitana = Lusitana({
   subsets: ["latin"],
   weight: ["400", "700"],
 });
-export const lobsterTwo = Lobster_Two({ weight: "400" });
+export const lobsterTwo = Lobster_Two({ subsets: ["latin"], weight: "400" });
